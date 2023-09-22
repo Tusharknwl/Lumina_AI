@@ -40,7 +40,7 @@ export const LandingHero = () => {
             <div className="text-sm md:text-xl font-light text-zinc-400">
                 Login For Free
             </div>
-            <div className="rounded-full shadow-emerald-50 p-10 mx-auto justify-center">
+            <div className="rounded-full flex shadow-emerald-50 p-10 mx-auto justify-center">
                 <Image
                     src={"/banner.png"}
                     alt="Lumina.AI Banner"
@@ -48,6 +48,7 @@ export const LandingHero = () => {
                     width={1200}
                     height={800}
                     quality={100}
+                    unoptimized
                     className="rounded-md drop-shadow-xl justify-center items-center"
                 />
             </div>

@@ -26,7 +26,7 @@ Lumina AI comes with a wide range of AI-powered features, including:
 
 ## Demo
 
-Visit our [live demo](url_to_demo)
+Visit our [Lumina.AI](https://lumina-ai-one.vercel.app/)
 
 ## Installation
 

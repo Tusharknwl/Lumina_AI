@@ -9,7 +9,6 @@ Lumina AI is a SaaS-based AI platform built with Next.js, Shadcn, Tailwind CSS, 
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
@@ -26,7 +25,7 @@ Lumina AI comes with a wide range of AI-powered features, including:
 
 ## Demo
 
-Visit our [live demo](url_to_demo)
+Visit our [Lumina.AI](https://lumina-ai-one.vercel.app/)
 
 ## Installation
 

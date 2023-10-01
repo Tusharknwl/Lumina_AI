@@ -1,4 +1,4 @@
-`<br />
+<br />
 <div align="center">
   <a href="https://github.com/Tusharknwl/expense-tracker">
     <img src="public/logo0.png" alt="Logo" width="80" height="80">
@@ -15,7 +15,7 @@
     ·
     <a href="https://github.com/Tusharknwl/Lumina_AI/issues">Request Feature</a>
   </p>
-</div>`
+</div>
 
 ## About The Project
 ![Lumina AI banner](/public/banner.png)

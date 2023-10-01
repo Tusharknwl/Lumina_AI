@@ -1,5 +1,24 @@
 # Lumina AI - SaaS-based AI Platform
 
+`<br />
+<div align="center">
+  <a href="https://github.com/Tusharknwl/expense-tracker">
+    <img src="public/logo0.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">EXPENSE TRACKER</h3>
+
+  <p align="center">
+    React js expense tracking web application to help users track their spending habits. Integrated with voice capabilities enable users to add or remove transaction records via voice.
+    <br />
+    <a href="https://kharcha-expense-tracker.netlify.app">View Demo</a>
+    ·
+    <a href="https://github.com/Tusharknwl/expense-tracker/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Tusharknwl/expense-tracker/issues">Request Feature</a>
+  </p>
+</div>`
+
 ![Lumina AI banner](/public/banner.png)
 
 

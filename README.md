@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/Tusharknwl/expense-tracker">
+  <a href="https://luminaai.tech">
     <img src="public/logo0.png" alt="Logo" width="80" height="80">
   </a>
 

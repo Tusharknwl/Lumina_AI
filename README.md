@@ -99,12 +99,6 @@ We welcome contributions from the community. Pull requests are welcome. For majo
 
 Please make sure to update tests as appropriate.
 
-## Credits
-
-This project was created with the invaluable guidance and inspiration from the following YouTube tutorial:
-
-- [Build a SaaS AI Platform](https://www.youtube.com/watch?v=ffJ38dBzrlY)
-  - By: [Code With Antonio](https://www.youtube.com/@codewithantonio)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tusharknwl.github.io/portfolio-2021)

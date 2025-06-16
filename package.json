@@ -9,13 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.23.3",
+    "@clerk/nextjs": "^6.22.0",
     "@hookform/resolvers": "^3.3.1",
     "@radix-ui/react-avatar": "^1.0.3",
     "@radix-ui/react-dialog": "^1.0.4",
     "@radix-ui/react-label": "^2.0.2",
     "@radix-ui/react-select": "^1.2.2",
     "@radix-ui/react-slot": "^1.0.2",
+    "@reduxjs/toolkit": "^2.8.2",
     "@types/node": "20.5.9",
     "@types/react": "^18.2.21",
     "@types/react-dom": "18.2.7",
@@ -26,20 +27,29 @@
     "clsx": "^2.0.0",
     "eslint": "8.48.0",
     "eslint-config-next": "13.4.19",
+    "highlight.js": "^11.11.1",
     "lucide-react": "^0.274.0",
-    "next": "13.4.19",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.15.2",
+    "next": "^15.3.3",
     "openai": "^4.4.0",
     "postcss": "8.4.29",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.46.0",
     "react-markdown": "^8.0.7",
+    "react-redux": "^9.2.0",
+    "rehype-highlight": "^7.0.2",
     "replicate": "^0.18.0",
     "tailwind-merge": "^1.14.0",
     "tailwindcss": "3.3.3",
     "tailwindcss-animate": "^1.0.7",
     "typescript": "5.2.2",
     "typewriter-effect": "^2.21.0",
+    "vfile": "^6.0.3",
     "zod": "^3.22.2"
+  },
+  "devDependencies": {
+    "@types/mongoose": "^5.11.96"
   }
 }

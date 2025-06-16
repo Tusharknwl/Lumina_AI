@@ -6,7 +6,7 @@ import dbConnect from "@/lib/mongodb";
 // PUT: Update a chat session
 export async function PUT(
   request: NextRequest,
-  context: { params: { id: string } }
+  context: { params: Promise<{ id: string }> }
 ) {
   try {
     await dbConnect();
@@ -39,7 +39,7 @@ export async function PUT(
 // DELETE: Delete a chat session and all its messages
 export async function DELETE(
   request: NextRequest,
-  context: { params: { id: string } }
+  context: { params: Promise<{ id: string }> }
 ) {
   try {
     await dbConnect();

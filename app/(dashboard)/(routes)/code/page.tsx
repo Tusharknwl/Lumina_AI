@@ -278,8 +278,10 @@ const CodePage = () => {
               Code Generation Assistant
             </h2>
             <p className="text-gray-600 text-center mb-8 max-w-md">
+              {" "}
               I can help you write, debug, and explain code in any programming
-              language. Describe what you need and I'll generate it for you.
+              language. Describe what you need and I&apos;ll generate it for
+              you.
             </p>
 
             {/* Suggested Prompts */}
@@ -327,7 +329,7 @@ const CodePage = () => {
                     )}
                   >
                     <ReactMarkdown
-                      rehypePlugins={[rehypeHighlight]}
+                      rehypePlugins={[rehypeHighlight as any]}
                       components={{
                         pre: ({ node, ...props }) => {
                           // Use the helper to extract code string from children
